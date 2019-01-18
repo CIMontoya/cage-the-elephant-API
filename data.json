@@ -1,29 +1,72 @@
 {
-  "tags": ["action", "comedy", "drama", "scifi/horror"],
+  "tags": ["action", "comedy", "drama", "scifi", "horror", "fantasy", "thriller", "adventure"],
   "movies": [
     {
       "year": 2003,
       "title": "Kill Bill: Volume 1",
       "directors": ["Quentin Tarantino"],
-      "tags": "action"
+      "tags": ["action", "drama"]
     },
     {
       "year": 1980,
       "title": "Airplane!",
       "directors": ["David Zucker", "Jim Abrahams", "Jerry Zucker"],
-      "tags": "comedy"
+      "tags": ["comedy"]
     },
     {
       "year": 1994,
       "title": "Natural Born Killers",
       "directors": ["Oliver Stone", "Quentin Tarantino"],
-      "tags": "drama"
+      "tags": ["drama", "action"]
     },
     {
       "year": 1982,
       "title": "Blade Runner",
       "directors": ["Ridley Scott"],
-      "tags": "scifi"
-    }
+      "tags": ["scifi", "action"]
+    },
+    {
+      "year": 1981,
+      "title": "Raiders of the Last Ark",
+      "directors": ["Steven Spielberg"],
+      "tags": ["action", "adventure"]
+    },
+    {
+      "year": 1998,
+      "title": "The Big Lebowski",
+      "directors": ["Ethan Coen", "Joel Coen"],
+      "tags": ["action", "drama", "comedy"]
+    },
+    {
+      "year": 2008,
+      "title": "Step Brothers",
+      "directors": ["Adam McKay"],
+      "tags": ["comedy"]
+    },
+    {
+      "year": 1995,
+      "title": "Seven",
+      "directors": ["David Fincher"],
+      "tags": ["thriller", "drama"]
+    },
+    {
+      "year": 2010,
+      "title": "Shutter Island",
+      "directors": ["Martin Scorsese"],
+      "tags": ["thriller"]
+    },
+    {
+      "year": 1998,
+      "title": "The Big Lebowski",
+      "directors": ["Ethan Coen", "Joel Coen"],
+      "tags": ["action", "drama", "comedy"]
+    },
+    {
+      "year": 1994,
+      "title": "Schindler's List",
+      "directors": ["Steven Spielberg"],
+      "tags": ["drama"]
+    },
+
   ]
 }
