@@ -38,6 +38,6 @@ app.use((req, res, next) => {
   res.status(500).send("Something went wrong")
 })
 
-app.listen(port, ()=>{
+app.listen(process.env.PORT || port, ()=>{
   console.log(`viddy well then, droogs ${port}`)
 })
