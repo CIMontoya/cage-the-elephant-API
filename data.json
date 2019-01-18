@@ -1,0 +1,29 @@
+{
+  "tags": ["action", "comedy", "drama", "scifi/horror"],
+  "movies": [
+    {
+      "year": 2003,
+      "title": "Kill Bill: Volume 1",
+      "directors": ["Quentin Tarantino"],
+      "tags": "action"
+    },
+    {
+      "year": 1980,
+      "title": "Airplane!",
+      "directors": ["David Zucker", "Jim Abrahams", "Jerry Zucker"],
+      "tags": "comedy"
+    },
+    {
+      "year": 1994,
+      "title": "Natural Born Killers",
+      "directors": ["Oliver Stone", "Quentin Tarantino"],
+      "tags": "drama"
+    },
+    {
+      "year": 1982,
+      "title": "Blade Runner",
+      "directors": ["Ridley Scott"],
+      "tags": "scifi"
+    }
+  ]
+}
