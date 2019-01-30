@@ -6,16 +6,77 @@
       "title": "Kill Bill: Volume 1",
       "directors": ["Quentin Tarantino"],
       "tags": ["action", "drama"],
-      "poster": "http://www.gstatic.com/tv/thumb/v22vodart/32988/p32988_v_v8_af.jpg",
-      "image": "ef.jpg"
+      "poster": "http://www.gstatic.com/tv/thumb/v22vodart/32988/p32988_v_v8_af.jpg"
     },
     {
       "year": 1980,
       "title": "Airplane!",
       "directors": ["David Zucker", "Jim Abrahams", "Jerry Zucker"],
       "tags": ["comedy"],
-      "poster": "http://www.gstatic.com/tv/thumb/v22vodart/1671/p1671_v_v8_aa.jpg",
-      "image": "re.png"
+      "poster": "http://www.gstatic.com/tv/thumb/v22vodart/1671/p1671_v_v8_aa.jpg"
      }
-  ]
+{
+     "year": 1994,
+     "title": "Natural Born Killers",
+     "directors": ["Oliver Stone", "Quentin Tarantino"],
+     "tags": ["drama", "action"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/15888/p15888_v_v8_ac.jpg"
+   },
+   {
+     "year": 1982,
+     "title": "Blade Runner",
+     "directors": ["Ridley Scott"],
+     "tags": ["scifi", "action"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/4190/p4190_v_v8_ak.jpg"
+   },
+   {
+     "year": 1981,
+     "title": "Raiders of the Last Ark",
+     "directors": ["Steven Spielberg"],
+     "tags": ["action", "adventure"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/7719/p7719_v_v8_ae.jpg"
+   },
+   {
+     "year": 1998,
+     "title": "The Big Lebowski",
+     "directors": ["Ethan Coen", "Joel Coen"],
+     "tags": ["action", "drama", "comedy"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/20484/p20484_v_v8_am.jpg"
+   },
+   {
+     "year": 2008,
+     "title": "Step Brothers",
+     "directors": ["Adam McKay"],
+     "tags": ["comedy"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/175884/p175884_v_v8_ac.jpg"
+   },
+   {
+     "year": 1995,
+     "title": "Seven",
+     "directors": ["David Fincher"],
+     "tags": ["thriller", "drama"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/17198/p17198_v_v8_ac.jpg"
+   },
+   {
+     "year": 2010,
+     "title": "Shutter Island",
+     "directors": ["Martin Scorsese"],
+     "tags": ["thriller"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/3531967/p3531967_v_v8_am.jpg"
+   },
+   {
+     "year": 1994,
+     "title": "Schindler's List",
+     "directors": ["Steven Spielberg"],
+     "tags": ["drama"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/15227/p15227_v_v8_az.jpg"
+   },
+   {
+     "year": 2010,
+     "title": "Inception",
+     "directors": ["Christopher Nolan"],
+     "tags": ["thriller", "scifi"],
+     "poster": "http://www.gstatic.com/tv/thumb/v22vodart/7825626/p7825626_v_v8_ad.jpg"
+   }
+ ]
 }
